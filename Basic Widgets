@@ -1,0 +1,12 @@
+Basic widgets
+Flutter comes with a suite of powerful basic widgets, of which the following are commonly used:
+
+Text
+The Text widget lets you create a run of styled text within your application.
+Row, Column
+These flex widgets let you create flexible layouts in both the horizontal (Row) and vertical (Column) directions.
+Stack
+Instead of being linearly oriented (either horizontally or vertically), a Stack widget lets you place widgets on top of each 
+other in paint order. .
+Container
+The Container widget lets you create a rectangular visual element. . 
