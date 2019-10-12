@@ -31,6 +31,12 @@ class MyAppBar extends StatelessWidget {
             tooltip: 'Search',
             onPressed: null,
           ),
+          
+           IconButton(
+            icon: Icon(Icons.logout),
+            tooltip: 'logout',
+            onPressed: null,
+          ),
         ],
       ),
     );
